@@ -1,0 +1,6 @@
+﻿  basicmacro.c
+c:\users\baek\documents\visual studio 2015\projects\ch04\prj01\basicmacro.c(9): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\baek\documents\visual studio 2015\projects\ch04\prj01\basicmacro.c(9): warning C4013: 'puts'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+basicmacro.obj : error LNK2005: _main이(가) advancemacro.obj에 이미 정의되어 있습니다.
+macro.obj : error LNK2005: _main이(가) advancemacro.obj에 이미 정의되어 있습니다.
+c:\users\baek\documents\visual studio 2015\Projects\Ch04\Debug\Prj01.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

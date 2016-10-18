@@ -1,0 +1,14 @@
+﻿char.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+charliteral.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+comments.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+const.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+float.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+intchar.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+integer.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+numliteral.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+overflow.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+size.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+subtraction.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+sum.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+var.obj : error LNK2005: _main이(가) basictype.obj에 이미 정의되어 있습니다.
+C:\Users\baek\Documents\Visual Studio 2015\Projects\Ch03\Debug\Ch03.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

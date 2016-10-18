@@ -1,0 +1,1 @@
+c:\users\baek\documents\visual studio 2015\Projects\Ch02\First C Project\bin\Debug\First C Project.exe.config
